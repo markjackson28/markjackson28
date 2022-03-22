@@ -8,7 +8,7 @@
 ### Connect with me:
 
 <!-- [![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/markjackson28#gh-light-mode-only) -->
-[<img align="left" alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:100px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:100px;" />][linkedin]
 <!-- [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/markjackson28#gh-dark-mode-only)
 &nbsp;&nbsp; -->
 <!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
@@ -36,3 +36,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[linkedin]: https://www.linkedin.com/in/markjackson28
