@@ -1,4 +1,4 @@
-## I'm a Full Stack Developer 🖥️
+## Full Stack Dev 🖥️
 
 - 📖 Always on the hunt to learn something new
 - 🙋‍♂️ Looking to collaborate with other content creators
