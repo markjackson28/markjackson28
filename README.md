@@ -20,6 +20,8 @@ Hello! I'm a software developer with a strong leadership background and rich exp
 
 [<img align="left" alt="LinkedIn" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />][linkedin]
 <br />
+
+
 ### 🛠️ Languages and Tools:
 
 #### Development Environments & Editors
