@@ -7,12 +7,7 @@
 
 ### Connect with me:
 
-<!-- [![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/markjackson28#gh-light-mode-only) -->
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:100px;" />][linkedin]
-<!-- [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/markjackson28#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-<!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 <br/>
 
 ### Languages and Tools:
