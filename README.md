@@ -50,7 +50,7 @@ Hello! I'm a software developer with a strong leadership background and rich exp
 <br />
 
 #### Cloud & Deployment
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+[<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />][aws]
 
 
 [linkedin]: https://www.linkedin.com/in/markjackson28
