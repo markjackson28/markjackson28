@@ -1,6 +1,6 @@
 ## 🚀 Passionate Software Developer | Army Veteran | Diverse Tech Enthusiast 🌟
 
-Hello! I'm a software developer with a strong leadership background and rich experiences ranging from military service to audio engineering, personal training, and more recently, leading teams and educating future developers. My journey has been marked by a relentless pursuit of knowledge and a passion for solving complex problems
+Hello! I'm a software developer with a strong leadership background and rich experiences ranging from military service to audio engineering, personal training, and more recently, leading teams and educating future developers. My journey has been marked by a relentless pursuit of knowledge and a passion for solving complex problems.
 
 ### 🌍 My Journey
 - **Army Veteran:** Discipline, motivation, and team collaboration skills developed through military service.
