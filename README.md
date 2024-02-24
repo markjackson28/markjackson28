@@ -6,6 +6,9 @@ Hello! I'm a software developer with a strong leadership background and rich exp
 - **Army Veteran:** Discipline, motivation, and team collaboration skills developed through military service.
 - **Audio Engineering & Electronic Music Production:** Dual degree showcasing my versatility and thirst for learning.
 - **Personal Trainer:** Enhanced communication skills and logical thinking to help clients achieve goals.
+- **Grading TA at Code Fellows:** Engaging with aspiring developers, providing feedback and guidance to foster their growth in software development.
+- **Team Lead at Target:** Currently leading a dynamic team, emphasizing on effective communication, strategic planning, and driving results.
+
 
 ### 🎯 Professional Focus
 - **Software Development:** Passionate about creating innovative solutions and enhancing user experiences.
